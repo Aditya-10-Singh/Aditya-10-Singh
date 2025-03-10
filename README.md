@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="https://github.com/Aditya-10-Singh/Aditya-10-Singh/blob/main/GitHub-Banner.png" width="100%">
+<img src="C:\Users\adity\OneDrive\Pictures\Photos\White and Blue Minimalist Watercolor Background Linkedin Banner (2).png" width="100%">
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hey!+it's+Aditya+%F0%9F%91%8B;Full+Stack+Web+Developer;Open Source Contributor+" alt="Typing SVG" /></a>
 </div>  

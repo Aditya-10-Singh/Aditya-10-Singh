@@ -1,25 +1,25 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<img src="C:\Users\adity\OneDrive\Pictures\Photos\White and Blue Minimalist Watercolor Background Linkedin Banner (2).png" width="100%">
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hey!+it's+Aditya+%F0%9F%91%8B;Full+Stack+Web+Developer;Open Source Contributor+" alt="Typing SVG" /></a>
-</div>  
+![Neon Line](https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif)
 
-<div >
-<p align="center">
-I specialize in building scalable and impactful tech solutions, with a strong focus on solving real-world problems through innovative code. Currently, I'm working on AI-integrated projects and developing solutions in the realm of smart systems and urban mobility, including an Intelligent Traffic Management System to ease congestion. I actively participate in hackathons, and enjoy collaborating with talented developers to bring creative ideas to life. When I’m not coding, I’m either leading the Tech Club at my university or mentoring juniors. Always open to new challenges and exciting collaborations!
-</p>
-</div>  
+![Banner](C:\Users\adity\OneDrive\Pictures\Photos\White%20and%20Blue%20Minimalist%20Watercolor%20Background%20Linkedin%20Banner%20(2).png)
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hey!+it's+Aditya+%F0%9F%91%8B;Full+Stack+Web+Developer;Open%20Source%20Contributor+" alt="Typing SVG" /></a>
+</div>
+
+<div>
+  <p align="center">
+    I specialize in building scalable and impactful tech solutions, with a strong focus on solving real-world problems through innovative code. Currently, I'm working on AI-integrated projects and developing solutions in the realm of smart systems and urban mobility, including an Intelligent Traffic Management System to ease congestion. I actively participate in hackathons, and enjoy collaborating with talented developers to bring creative ideas to life. When I’m not coding, I’m either leading the Tech Club at my university or mentoring juniors. Always open to new challenges and exciting collaborations!
+  </p>
+</div>
 
 ##
 
 <div align="center">
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> 
-  <h1>
-Technologies I Work With 
-  </h1>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> 
+  <h1>Technologies I Work With</h1>
 
 | *Category*              | *Technologies* |
-|---------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Programming Languages* | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  |
 | *Frontend Development*  | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge&logo=ejs&logoColor=white) |
 | *Backend Development*   | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-D22128?style=for-the-badge&logo=apache-tomcat&logoColor=white) |
@@ -34,20 +34,20 @@ Technologies I Work With
 </div>
 
 ##
+
 <div align="center">
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
-  <h1>
-Let’s Connect!
-  </h1>
+  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> 
+  <h1>Let’s Connect!</h1>
 
   <p align="center">
     <a href="https://www.linkedin.com/in/aditya-singh-1b7243291"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="https://x.com/AdityaS08126784"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
     <a href=""><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   </p>
-</div>  
+</div>
 
 ##
+
 <img src="https://github-readme-stats.vercel.app/api?username=LungsomLamnio1004&&show_icons=true&count_private=true&theme=github_dark">|<img src="https://github-readme-streak-stats.herokuapp.com/?user=LungsomLamnio1004&theme=blueberry_duo"/>
 |---|---|
 
@@ -57,16 +57,14 @@ Let’s Connect!
 </p>
 
 <div align="center">
-    <h1>
-      Thought for the Day
-    </h1>
-    <p>
+  <h1>Thought for the Day</h1>
+  <p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
-      <div align="center">Visitors count</div>
-      <div align="center">
-        <img src="https://profile-counter.glitch.me/LungsomLamnio1004/count.svg"/>
-      </div> 
-    </p>
+    <div align="center">Visitors count</div>
+    <div align="center">
+      <img src="https://profile-counter.glitch.me/LungsomLamnio1004/count.svg"/>
+    </div> 
+  </p>
 </div>
 
 ##

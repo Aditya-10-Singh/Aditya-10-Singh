@@ -6,8 +6,9 @@
 
 <div >
 <p align="center">
-I specialize in building scalable web applications and love solving real-world problems through code. Currently, I’m working on AI-integrated projects and developing innovative solutions in e-commerce and automation. I actively contribute to open-source, participate in hackathons, and enjoy collaborating with like-minded developers.
-When I’m not coding, you’ll find me exploring new technologies, mentoring juniors, or refining my problem-solving skills with DSA. Always open to exciting opportunities and meaningful collaborations!
+I specialize in building scalable and impactful tech solutions, with a strong focus on solving real-world problems through innovative code. Currently, I'm working on AI-integrated projects and developing solutions in the realm of smart systems and urban mobility, including an Intelligent Traffic Management System to ease congestion. I actively participate in hackathons, and enjoy collaborating with talented developers to bring creative ideas to life.
+
+When I’m not coding, I’m either leading the Tech Club at my university or mentoring juniors. Always open to new challenges and exciting collaborations!
 </p>
 </div>  
 

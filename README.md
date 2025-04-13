@@ -3,7 +3,7 @@
 ![Banner](C:\Users\adity\OneDrive\Pictures\Photos\White%20and%20Blue%20Minimalist%20Watercolor%20Background%20Linkedin%20Banner%20(2).png)
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hey!+it's+Aditya+%F0%9F%91%8B;Full+Stack+Web+Developer;Open%20Source%20Contributor+" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=35&duration=2000&pause=1000&color=00FF6C&center=true&vCenter=true&width=700&height=60&lines=Hey!+it's+Aditya+%F0%9F%91%8B;CSE+Student;Web%20Developer+" alt="Typing SVG" /></a>
 </div>
 
 <div>

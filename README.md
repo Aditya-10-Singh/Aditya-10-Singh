@@ -42,7 +42,6 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/aditya-singh-1b7243291"><img src="https://img.shields.io/badge/-Linkedin%20-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
     <a href="https://x.com/AdityaS08126784"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-    <a href=""><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   </p>
 </div>
 

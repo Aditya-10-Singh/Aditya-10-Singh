@@ -62,12 +62,12 @@
 ##
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/Aditya-10-Singh&&show_icons=true&count_private=true&theme=github_dark">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=https://github.com/Aditya-10-Singh&theme=blueberry_duo"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aditya-10-Singh&&show_icons=true&count_private=true&theme=github_dark">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aditya-10-Singh&theme=blueberry_duo"/>
 </div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=https://github.com/Aditya-10-Singh&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aditya-10-Singh&column=9&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh">
 </p>
 
 <div align="center">
@@ -77,7 +77,7 @@
   </p>
   <div align="center">Visitors count</div>
   <div align="center">
-    <img src="https://profile-counter.glitch.me/https://github.com/Aditya-10-Singh/count.svg"/>
+    <img src="https://profile-counter.glitch.me/Aditya-10-Singh/count.svg"/>
   </div> 
 </div>
 

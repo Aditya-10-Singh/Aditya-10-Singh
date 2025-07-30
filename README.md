@@ -75,10 +75,10 @@
   <p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
   </p>
-  <h2 align="center">✨ Visitor Count ✨</h2>
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Aditya-10-Singh&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Visitor Count" />
-  </p>
+  <div align="center">Visitors count</div>
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/Aditya-10-Singh/count.svg"/>
+  </div>
 
 </div>
 

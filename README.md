@@ -75,11 +75,6 @@
   <p>
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
   </p>
-  <div align="center">Visitors count</div>
-  <div align="center">
-    <img src="https://profile-counter.glitch.me/Aditya-10-Singh/count.svg"/>
-  </div>
-
 </div>
 
 ##
